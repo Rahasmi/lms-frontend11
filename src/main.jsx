@@ -1,6 +1,7 @@
 
 //CSS imports
 import './index.css';
+import store from './Redux/store.js';
 
 import ReactDOM from 'react-dom/client'
 import { Toaster } from 'react-hot-toast';
